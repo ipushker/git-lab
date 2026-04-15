@@ -1,3 +1,7 @@
 Hello World
 New Line
+<<<<<<< HEAD
 Main branch change
+=======
+Feature branch change
+>>>>>>> feature1
